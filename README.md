@@ -92,7 +92,7 @@ plt.show()
 
 ## Output:
 
-![ss1](./ss1.png)
+![ss](./ss.png)
 
 ## Result:
 
